@@ -3,7 +3,7 @@ In this repository you'll find useful Python DSP scripts.
 
 These can be used as a refrence when implementing the algorithms in FPGA/SoC applications.
 
-![Local Image](./pics/DSP.png)
+![Local Image](./pics/DSP.PNG)
 
 
 ### List of components:
