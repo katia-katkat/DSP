@@ -1,7 +1,7 @@
 # Digital signal processing using python
 In this repository you'll find useful Python DSP scripts.
 
-These can be used as a refrence when implementing the algorithms in FPGA/SoC applications.
+These can be used as a reference when implementing the algorithms in FPGA/SoC applications.
 
 
 <img src="./pics/DSP.PNG" alt="Image Alt Text" width="900"/>
