@@ -2,7 +2,7 @@
 In this repository you'll find useful Python DSP scripts.
 
 These can be used as a refrence when implementing the algorithms in FPGA/SoC applications.
-<img src="./pics/DSP.PNG" alt="Image Alt Text" width="200"/>
+<img src="./pics/DSP.PNG" alt="Image Alt Text" width="400"/>
 
 ![Local Image](./pics/DSP.PNG)
 
